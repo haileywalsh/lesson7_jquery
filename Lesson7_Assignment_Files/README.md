@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Hailey Walsh
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduced jQuery, we learned different functions that can alter the way items are displayed on a webpage. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://haileywalsh.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. Drill 4, we learned about the hover feature which allows you to hover over a section of text and it will expand rather than having to click on it. 
+2. Script.js, we learned how to link files into out index file. 
+3. display(event), we learned how to fade in and out different sections of text. 
